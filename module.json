@@ -7,9 +7,6 @@
     "name": "ACD-Jake"
     }
   ],
-  "scripts": [
-    "scripts/main.js"
-  ],
   "version": "0.1.0",
   "compatibility": {
     "minimum": "10",
@@ -21,5 +18,8 @@
   "license": "https://github.com/acd-jake/foundry-camera_tweaks/LICENSE.md",
   "readme": "https://github.com/acd-jake/foundry-camera_tweaks/README.md",
   "bugs": "https://github.com/acd-jake/foundry-camera_tweaks/issues",
-  "changelog": "https://github.com/acd-jake/foundry-camera_tweaks/CHANGELOG.md"
+  "changelog": "https://github.com/acd-jake/foundry-camera_tweaks/CHANGELOG.md",
+  "scripts": [
+    "scripts/main.js"
+  ]
 }
